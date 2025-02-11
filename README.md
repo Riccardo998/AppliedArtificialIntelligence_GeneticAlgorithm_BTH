@@ -1,6 +1,5 @@
 # AppliedArtificialIntelligence_GeneticAlgorithm_BTH
-
-# Genetic Algorithm and Data Science – University Project
+Genetic Algorithm and Data Science – University Project
 
 ## 📌 Overview
 This repository contains our implementation of various AI and data science techniques for the *Applied Artificial Intelligence* course at **Blekinge Institute of Technology**. The project explores **Genetic Algorithms (GAs)** and **Machine Learning** models across four key tasks.
